@@ -51,31 +51,6 @@
 7. [Private Variables](https://github.com/OmkarPathak/Python-Programs/blob/master/OOP/P10_PrivateVariable.py)
 8. [Magic Methods](https://github.com/OmkarPathak/Python-Programs/blob/master/OOP/P11_MagicMethods.py)
 
-## Graphs
-1. [Graph](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P63_Graph.py)
-2. [Breadth First Search](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P01_BreadthFirstSearch.py)
-3. [Depth First Search](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P02_DepthFirstSearch.py)
-4. [Detect Cycle in Directed Graph](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P03_DetectCycleInDirectedGraph.py)
-5. [Detect Cycle in Undirected Graph](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P04_DetectCycleInUndirectedGraph.py)
-6. [Topological Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P68_TopologicalSort.py)
-7. [Prim's Algorithm](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P06_Prim's-Algorithm.py)
-
-## Scripts
-
-1. [Create Multiple Folders](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P01_FolderManipulation.py)
-2. [Count files](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P02_FileCount.py)
-3. [Get File sizes](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P03_GetFileSize.py)
-4. [Find if a file exists](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P04_FindIfAFileExists.py)
-5. [Folder organization](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P05_FileOrganizer.py)
-6. [Get Dictionary Meaning](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P06_GetMeaning.py)
-7. [Sending Mail](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P07_ScriptToSendMail.py)
-8. [Counting Number of Words](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P08_CountNumberOfWords.py)
-9. [Birthday Reminder](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P09_ReminderApplication.py)
-10. [Script to download tutorial from tutorials point](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P10_SciptToDownloadPDF.py)
-11. [Script to check email in your terminal](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P11_CheckEmail.py)
-12. [Script to find devices connected to Network](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P12_ScriptToFindDevicesConnectedInNetwork.py)
-13. [Script to create metadata for a file](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P13_Python_Create_File_With_Metadata.py)
-
 ## Python Concepts
 
 1. [Variable Scope](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P02_VariableScope.py)
