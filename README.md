@@ -51,16 +51,6 @@
 7. [Private Variables](https://github.com/OmkarPathak/Python-Programs/blob/master/OOP/P10_PrivateVariable.py)
 8. [Magic Methods](https://github.com/OmkarPathak/Python-Programs/blob/master/OOP/P11_MagicMethods.py)
 
-## Trees
-
-1. [Simple Binary Tree](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P62_BinaryTree.py)
-2. [Binary Search Tree](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P43_BinarySearchTree.py)
-3. [Depth First Traversal](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P64_DepthFirstTraversal.py)
-4. [Breadth First Traversal](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P65_BreadthFirstTraversal.py)
-5. [Count Leaf Nodes](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Trees/P02_CountLeafNodes.py)
-6. [Building Tree from Preorder and Inorder](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Trees/P03_TreeFromInorderAndPreorder.py)
-7. [Print all the paths to leaf nodes](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Trees/P04_RootToLeafPaths.py)
-
 ## Graphs
 1. [Graph](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P63_Graph.py)
 2. [Breadth First Search](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P01_BreadthFirstSearch.py)
